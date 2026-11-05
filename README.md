@@ -20,7 +20,4 @@ Electron, JavaScript, HTML and CSS.
 
 Windows 10/11 and a Unitree Go2 robot.
 
----
-
-Independent project, not affiliated with Unitree Robotics.
 This is an independent project and is not affiliated with Unitree Robotics.
