@@ -136,17 +136,6 @@ Always:
 - Supervise the robot during operation.
 - Use the software only with authorised hardware.
 
-
-
-## Developer
-**Vraith**
-**Project:** SAM – Search and Assist Machine
-**Platform:** Windows Desktop
-**Robot:** Unitree Go2
-**Technology:** Electron, React, TypeScript and Vite
-
-
-
 ## Disclaimer
 SAM is an independent project and is not affiliated with, sponsored by or officially endorsed by Unitree Robotics.
 Unitree and Go2 are trademarks of their respective owners.
