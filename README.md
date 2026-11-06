@@ -3,8 +3,6 @@
 
 SAM (Search and Assist Machine) is a Windows desktop application developed by **Vraith** to control, monitor and interact with the Unitree Go2 robot dog.
 
-The project focuses on robotics, remote operation, LiDAR mapping and potential search and rescue applications.
-
 
 
 ## Features
