@@ -135,7 +135,7 @@ Always:
 - Use the software only with authorised hardware.
 
 ## Disclaimer
-SAM is an independent project and is not affiliated with, sponsored by or officially endorsed by Unitree Robotics.
+SAM is an independent project and is not affiliated with, sponsored by Unitree Robotics.
 Unitree and Go2 are trademarks of their respective owners.
 The software is provided for development, educational and experimental purposes.
 
