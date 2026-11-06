@@ -142,4 +142,3 @@ The software is provided for development, educational and experimental purposes.
 
 
 **SAM – Search and Assist Machine**
-*Developed by Vraith...*
